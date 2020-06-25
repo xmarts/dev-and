@@ -1,0 +1,4 @@
+[submodule "xma_project"]
+	path = xma_project
+	url = git@github.com:xmarts/xma_project.git
+	branch = 12.0
